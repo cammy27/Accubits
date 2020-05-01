@@ -1,0 +1,65 @@
+.features:hover{
+    background-color: green($color: #000000);
+}
+#a:hover{
+    box-shadow: 0px 23px 54px #000000;
+    border: #707070;
+}
+#b:hover{
+    box-shadow: 0px 23px 54px #000000;
+    border: #707070;
+}
+#c:hover{
+    box-shadow: 0px 23px 54px #000000;
+    border: #707070;
+}
+.features_heading{
+    font-size: 21px;
+    font-weight: 600;
+}
+#button1{
+    border-radius: 6pt;
+   border:#F39203;
+   color:black;
+}
+#button1:hover{
+    background: #309AFE;
+    border-radius: 6pt;
+    box-shadow: 0px 23px 54px #000000;
+    color: white;
+}
+#button2{
+    border-radius: 6pt;
+   border:#F39203;
+   color:black;
+}
+#button2:hover{
+    background: #309AFE;
+    border-radius: 6pt;
+    box-shadow: 0px 23px 54px #000000;
+    color: white;
+}
+
+#button3{
+    border-radius: 6pt;
+   border:#F39203;
+   color:black;
+}
+#button3:hover{
+    background: #309AFE;
+    border-radius: 6pt;
+    box-shadow: 0px 23px 54px #000000;
+    color: white;
+}
+.heading{
+    text-align: center;    text-align: center;
+    padding-top: 23px;
+    font-size: 30px;
+}
+.description{
+    text-align: center;
+    padding-top: 10px;
+    width: 400px;
+    margin-left: 30%;
+    padding-left:20px;
+}
