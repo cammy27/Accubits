@@ -9,6 +9,7 @@ import { PasswordComponent } from './login/password/password.component';
 import { SubmitComponent } from './login/submit/submit.component';
 import { SecureComponent } from './home/secure/secure.component';
 import { ProductsComponent } from './home/products/products.component';
+import { FooterComponent } from './home/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ProductsComponent } from './home/products/products.component';
     PasswordComponent,
     SubmitComponent,
     SecureComponent,
-    ProductsComponent
+    ProductsComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
